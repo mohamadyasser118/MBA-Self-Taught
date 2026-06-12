@@ -76,13 +76,14 @@ The curriculum is organised into **four stages**, moving from foundational liter
 
 | # | Topic | Specialization | Provider |
 |---|-------|----------------|----------|
-| 1 | Operations | Strategic Leadership and Management Specialization | University of Illinois |
-| 2 | Strategic Leadership & Management | Strategic Leadership and Management Specialization | University of Illinois |
-| 3 | Supply Chain Management | Supply Chain Management Specialization | Rutgers (Coursera) |
-| 4 | Organizational Analysis | Organizational Analysis | Stanford (Coursera) |
-| 5 | Marketing | Marketing Strategy Specialization + Digital Marketing Specialization | Various |
-| 6 | Risk Management | Risk Management Specialization | New York Institute of Finance |
-| 7 | Business Ethics & Entrepreneurship | Business Ethics + Entrepreneurship Specializations | Various |
+| 1 | (Operations) Strategic Leadership & Management | Strategic Leadership and Management Specialization | University of Illinois |
+| 2 | Supply Chain Management | Supply Chain Management Specialization | Rutgers (Coursera) |
+| 3 | Organizational Analysis | Organizational Analysis | Stanford (Coursera) |
+| 4 | Marketing | Marketing Strategy Specialization + Digital Marketing Specialization | Various |
+| 5 | Risk Management | Risk Management Specialization | New York Institute of Finance |
+| 6 | Business Ethics | Business Ethics Specializations | Various |
+| 7 | Entrepreneurship | Entrepreneurship Specializations | Various |
+
 
 ### Part 4: Specializations (4 Topics)
 
@@ -118,7 +119,6 @@ self-taught-mba/
 │   └── business-analytics/
 │
 ├── 03-core-stage-2/
-│   ├── operations/
 │   ├── strategic-leadership/
 │   ├── supply-chain-management/
 │   ├── organizational-analysis/
