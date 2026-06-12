@@ -199,19 +199,6 @@ Contributions are welcome. This is a community resource. Any improvement — new
 - Real-world case studies
 - Tool recommendations
 
-### Contribution Guidelines
-
-- Write in your own words – do not copy from lecture slides or transcripts
-- Maintain the existing structure for new summaries
-- Cite sources clearly with links or references
-- Be objective – the "Reflections" section is for analysis, not personal evaluation
-- Keep it concise – summaries are reference documents
-- Use clear language and explain technical terms
-
-### Review Process
-
-Pull requests are reviewed within 1–2 weeks. Feedback may be requested before merging. Contributors are acknowledged in the repository's contributors list.
-
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for full details.
 
 ---
