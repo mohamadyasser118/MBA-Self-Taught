@@ -1,12 +1,12 @@
-# 📘 Start Your Own Business — The Search for Great Ideas
+# 📘 The Search for Great Ideas: Harnessing creativity to empower innovation.
 
 | Field | Details |
 |-------|---------|
 | **Roadmap Section** | Entrepreneurship |
-| **Specialization** | How to Start Your Own Business |
-| **Institution** | Michigan State University |
 | **Platform** | Coursera |
-| **Duration** | 3 modules |
+| **Institution / Instructor** | Michigan State University |
+| **Course URL** | [coursera.org/learn/start-your-own-business-2-ideation](https://www.coursera.org/learn/start-your-own-business-2-ideation) |
+| **Duration** | 3 modules (approximately 1 week) |
 ---
 
 ## 🧭 Course Overview
