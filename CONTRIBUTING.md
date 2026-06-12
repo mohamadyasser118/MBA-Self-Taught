@@ -178,7 +178,6 @@ Put summaries in the right folder:
 └── business-analytics/
 
 03-core-stage-2/
-├── operations/
 ├── strategic-leadership/
 ├── supply-chain-management/
 ├── organizational-analysis/
