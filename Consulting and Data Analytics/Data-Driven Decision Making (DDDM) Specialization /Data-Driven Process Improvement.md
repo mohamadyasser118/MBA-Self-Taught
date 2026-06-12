@@ -2,9 +2,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Roadmap Section** | Healthcare |
+| **Roadmap Section** | Consulting and Data Analytics |
 | **Platform** | Coursera |
-| **Institution / Instructor** | University of California, Irvine — Division of Continuing and Professional Education |
+| **Institution / Instructor** | 	University at Buffalo — State University of New York |
 | **Course URL** | [coursera.org/learn/data-driven-process-improvement](https://www.coursera.org/learn/data-driven-process-improvement) |
 | **Duration** | 3 modules |
 
